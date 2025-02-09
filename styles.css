@@ -52,6 +52,7 @@ body {
   border-radius: 36px;
   border: 12px solid white;
   box-shadow: 10px 80px 100px 20px rgba(4, 3, 46, 0.103);
+  user-select: none;
 }
 .app-header {
   display: flex;
